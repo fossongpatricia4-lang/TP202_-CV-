@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CV Multimédia</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Mon CV Multimédia</h1>
+    <div class="lang-switch">
+      <button id="lang-fr" class="active">Français</button>
+      <button id="lang-en">English</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div class="media-box">
+        <img src="assets/photo.jpg" alt="Photo de profil" />
+        <video id="intro-video" controls>
+          <source src="assets/presentation.mp4" type="video/mp4" />
+          Votre navigateur ne supporte pas la vidéo.
+        </video>
+      </div>
+
+      <div class="text-box">
+        <h2 data-fr="Présentation" data-en="Introduction">Présentation</h2>
+        <p data-fr="Bienvenue sur mon CV multimédia. Cliquez sur les parties du parcours scolaire pour synchroniser la vidéo et l'audio." data-en="Welcome to my multimedia resume. Click the study path links to sync the video and audio.">Bienvenue sur mon CV multimédia. Cliquez sur les parties du parcours scolaire pour synchroniser la vidéo et l'audio.</p>
+        <audio id="intro-audio" controls>
+          <source src="assets/presentation.mp3" type="audio/mpeg" />
+          Votre navigateur ne supporte pas l'audio.
+        </audio>
+      </div>
+    </section>
+
+    <section class="skills">
+      <h2 data-fr="Compétences" data-en="Skills">Compétences</h2>
+      <ul>
+        <li data-fr="HTML moderne" data-en="Modern HTML">HTML moderne</li>
+        <li data-fr="Mise en page avec CSS" data-en="Layout with CSS">Mise en page avec CSS</li>
+        <li data-fr="Interactivité JavaScript" data-en="JavaScript interactivity">Interactivité JavaScript</li>
+        <li data-fr="Bilingue Français / Anglais" data-en="Bilingual French / English">Bilingue Français / Anglais</li>
+      </ul>
+    </section>
+
+    <section class="education">
+      <h2 data-fr="Parcours scolaire" data-en="Education">Parcours scolaire</h2>
+      <nav>
+        <a href="#" data-time-video="5" data-time-audio="3" data-fr="Lycée" data-en="High School">Lycée</a>
+        <a href="#" data-time-video="20" data-time-audio="15" data-fr="BTS" data-en="Two-year technical diploma">BTS</a>
+        <a href="#" data-time-video="35" data-time-audio="28" data-fr="Licence" data-en="Bachelor's degree">Licence</a>
+      </nav>
+    </section>
+
+    <section class="contact">
+      <h2 data-fr="Contact" data-en="Contact">Contact</h2>
+      <p data-fr="Email : exemple@email.com" data-en="Email: example@email.com">Email : exemple@email.com</p>
+      <p data-fr="Téléphone : +33 6 00 00 00 00" data-en="Phone: +33 6 00 00 00 00">Téléphone : +33 6 00 00 00 00</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
