@@ -32,7 +32,7 @@ const MEMBER = {
   bio: `Étudiante passionnée en Licence 2 Sécurité Informatique à l'Université de Yaoundé I.
 Curieuse et rigoureuse, je m'intéresse à la protection des systèmes, des réseaux et des données.
 Mon objectif est de contribuer à un monde numérique plus sûr.`,
-  bio_en: `Passionate student in Second Year of Computer Security at the University of Yaoundé I.',
+  bio_en: `Passionate student in Second Year of Computer Security at the University of Yaoundé I.`,
 
   /* ── COMPÉTENCES ── */
   /* Liste tes compétences séparées par des virgules */
