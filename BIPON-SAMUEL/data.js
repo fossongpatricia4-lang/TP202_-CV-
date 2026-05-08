@@ -45,25 +45,62 @@ nouvelles technologies, le développement mobile, les systèmes informatiques et
     "CSS3",
     "JavaScript",
     "Git",
+    "Responsive Design",
+    "Figma",
+    "CANVA",
+    "Adobe Photoshop"
     // Ajoute autant que tu veux...
   ],
 
   /* ── PARCOURS ── */
   /* Chaque entrée = une expérience ou formation */
-  parcours: [
-    {
-      title: "BACCALAURIAT D",   // Ex: "Licence en Informatique"
-      sub:   "Université de Yaoundé I · 2026",           // Ex: "Université de Yaoundé I · 2022–2025"
-      desc:  "Courte description de cette étape de ton parcours."
-    },
-    {
-      title: "Deuxième expérience",
-      sub:   "Entreprise ou école · Année",
-      desc:  "Ce que tu y as fait ou appris."
-    },
-    // Ajoute autant d'entrées que tu veux...
-  ],
-
+   parcours_scolaire: [
+  {
+    title: "Licence 2 — Génie Logiciel",
+    title_en: "Bachelor 2 — Software Engineering",
+    sub: "Université de Yaoundé I · 2025–2026",
+    sub_en: "University of Yaoundé I · 2025–2026",
+    desc: "Formation en génie logiciel et technologies informatiques avec des compétences en développement web, programmation, bases de données et conception d’applications.",
+    desc_en: "Training in software engineering and information technologies with skills in web development, programming, databases and application design.",
+    time: "00:00"
+  },
+  {
+    title: "Baccalauréat D",
+    title_en: "Advanced Level D",
+    sub: "Cameroun · Obtenu",
+    sub_en: "Cameroon · Obtained",
+    desc: "Obtention du Baccalauréat série D avec une formation scientifique axée sur les mathématiques, les sciences de la vie et les technologies.",
+    desc_en: "Obtained the D series Advanced Level with scientific training focused on mathematics, life sciences and technologies.",
+    time: "00:30"
+  },
+  {
+    title: "Probatoire D",
+    title_en: "Probatoire D",
+    sub: "Cameroun · Obtenu",
+    sub_en: "Cameroon · Obtained",
+    desc: "Formation scientifique ayant permis de développer des bases solides en logique, analyse et raisonnement scientifique.",
+    desc_en: "Scientific training that helped develop strong foundations in logic, analysis and scientific reasoning.",
+    time: "01:00"
+  },
+  {
+    title: "BEPC",
+    title_en: "BEPC",
+    sub: "Cameroun · Obtenu",
+    sub_en: "Cameroon · Obtained",
+    desc: "Obtention du Brevet d’Études du Premier Cycle avec des connaissances générales en sciences et en enseignement secondaire.",
+    desc_en: "Obtained the First Cycle Secondary Education Certificate with general knowledge in sciences and secondary education.",
+    time: "01:30"
+  },
+  {
+    title: "CEP",
+    title_en: "Primary School Certificate",
+    sub: "Cameroun · Obtenu",
+    sub_en: "Cameroon · Obtained",
+    desc: "Obtention du Certificat d’Études Primaires marquant la fin du cycle primaire.",
+    desc_en: "Obtained the Primary School Certificate marking the completion of primary education.",
+    time: "02:00"
+  }
+],
   /* ── MÉDIAS ── */
   /* Laisse les chemins tels quels si tu as bien nommé tes fichiers */
   video: "video.mp4",   // Vidéo de présentation (place le fichier ici)
