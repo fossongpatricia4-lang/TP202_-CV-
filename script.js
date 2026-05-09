@@ -21,7 +21,7 @@ const MEMBERS = [
   { folder: "ryan-fonkou", name: "Ryan Fonkou", role: "Étudiant en cybersécurité", color: "#6205f8", initials: "RF" },
   // ✅ Incoming entry (main)
   { folder: "serena-dountio", name: "DOUNTIO MELI SERENA", role: "Etudiante en securite informatique", color: "#60c8f0", initials: "..." },
-
+ { folder: "arielle-klod", name: "TCHOUTA HAPPI CLAUDE ARIELLE", role: "Étudiante en securite informatique", color: "#fff", initials: "KA" },
   // { folder: "prenom-nom", name: "Prénom Nom", role: "Ton rôle", color: "#rrggbb", initials: "XX" },
 ];
 
