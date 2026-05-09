@@ -31,8 +31,11 @@ initials:  "KA",        // Tes initiales (2 lettres) si pas de photo
 bio: `Étudiante en Licence 2 Sécurité Informatique à l'Université de Yaoundé I.
 optimiste et travailleuse aimant decouvrir de nouvelles choses, la securisation des systemes informatiques est cle.
 sinon je suis multi-fonctionelle , je touche un peu de tout.
-sinon vue en face j'aime cuisiner, patisser , le make-up,etc. 
-bio_en: ` student in Second Year of Computer Security at the University of Yaoundé I.`,
+sinon vue en face j'aime cuisiner, patisser , le make-up,etc.`,
+bio_en: `Student in Second Year of Computer Security at the University of Yaoundé I.
+Optimistic and hardworking, loving to discover new things, securing computer systems is key.
+Otherwise I am multi-functional, I touch a bit of everything.
+Otherwise in person I like cooking, baking, make-up, etc.`,
   /* ── COMPÉTENCES ── */
   /* Liste tes compétences séparées par des virgules */
   skills: [
