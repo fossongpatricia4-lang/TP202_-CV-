@@ -17,12 +17,10 @@
 const MEMBERS = [
   { folder: "Fossong-Patricia", name: "Fossong Tsofack Patricia", role: "Développeuse Front-end et UI/UX Designer", color: "#140...", initials: "FP" },
   { folder: "BIPON-SAMUEL", name: "Bipon Samuel Albert", role: "Génie Logiciel", color: "#152f87", initials: "BI" },
-  // ✅ Your entry (ryanfonkou)
   { folder: "ryan-fonkou", name: "Ryan Fonkou", role: "Étudiant en cybersécurité", color: "#6205f8", initials: "RF" },
-  // ✅ Incoming entry (main)
-  { folder: "serena-dountio", name: "DOUNTIO MELI SERENA", role: "Etudiante en securite informatique", color: "#60c8f0", initials: "..." },
- { folder: "arielle-klod", name: "TCHOUTA HAPPI CLAUDE ARIELLE", role: "Étudiante en securite informatique", color: "#fff", initials: "KA" },
-  { folder: "charles-kamga", name: "Charles Kamga", role: "Développeur Backend Django & Cybersécurité", color: "#c8f060", initials: "CK" },
+  { folder: "serena-dountio", name: "DOUNTIO MELI SERENA", role: "Etudiante en securite informatique", color: "#60c8f0" },
+  { folder: "arielle-klod", name: "TCHOUTA HAPPI CLAUDE ARIELLE", role: "Étudiante en securite informatique", color: "#6406fd", initials: "KA" },
+  { folder: "charles-kamga", name: "Charles Kamga", role: "Développeur Backend Django & Cybersécurité", color: "#2105f8", initials: "CK" },
   // { folder: "prenom-nom", name: "Prénom Nom", role: "Ton rôle", color: "#rrggbb", initials: "XX" },
 ];
 
