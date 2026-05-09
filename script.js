@@ -18,7 +18,7 @@ const MEMBERS = [
   { folder: "Fossong-Patricia", name: "Fossong Tsofack Patricia", role: "Développeuse Front-end et UI/UX Designer", color: "#140...", initials: "FP" },
   { folder: "BIPON-SAMUEL", name: "Bipon Samuel Albert", role: "Génie Logiciel", color: "#152f87", initials: "BI" },
   // ✅ Your entry (ryanfonkou)
-  { folder: "ryan-fonkou", name: "Ryan Fonkou", role: "Étudiant en cybersécurité", color: "#c8f060", initials: "RF" },
+  { folder: "ryan-fonkou", name: "Ryan Fonkou", role: "Étudiant en cybersécurité", color: "#6205f8", initials: "RF" },
   // ✅ Incoming entry (main)
   { folder: "serena-dountio", name: "DOUNTIO MELI SERENA", role: "Etudiante en securite informatique", color: "#60c8f0", initials: "..." },
 
