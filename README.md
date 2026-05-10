@@ -1,4 +1,4 @@
-# 📋 Trombinoscope — Notre Groupe
+# 📋 CV-MULTIMEDIA — Notre Groupe 8
 
 CV interactif de groupe en **HTML / CSS / JavaScript pur** (aucun framework).
 
@@ -39,7 +39,7 @@ trombinoscope/
 ### Étape 1 — Clone le projet
 ```bash
 git clone <URL_DU_REPO>
-cd trombinoscope
+cd cv-multimedia
 ```
 
 ### Étape 2 — Crée ton dossier
@@ -139,3 +139,14 @@ Ouvre simplement `index.html` dans un navigateur.
 ---
 
 > Projet réalisé dans le cadre du cours — Promo 2025–2026
+**Pourcentages de travailles**
+**FOSSONG TSOFACK PATRICIA 24G2975**     **100%**
+**FONKOU DEFFO RYAN  24W2305**           **80%**
+**TEZEU NOUMBI YANN MANUEL 23H2012**     **10%**
+**BIPON SAMUEL ALBERT 24H2182**          **60%**
+**Kamga Mukam Charles 24G2128**          **60%**
+**DOUNTIO MELI SERENA 24H2209**          **70%**
+**TAGNE FONO DAVID 24H2005**             **70%**
+**TCHOUTA HAPPPI CLAUDE ARIELLE 24G2523** **60%**
+
+
