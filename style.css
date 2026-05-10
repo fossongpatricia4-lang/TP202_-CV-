@@ -250,7 +250,7 @@ header {
 
 .parcours-link {
   display: inline-flex;
-  align-items: center;le 
+  align-items: center;
   gap: 8px;
   background: var(--accent);
   border: none;
